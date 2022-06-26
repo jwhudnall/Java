@@ -19,6 +19,6 @@ class KeyRead
     System.out.println("Enter your name: ");
     name = s.nextLine();
     System.out.println("Welcome, " + name);
-    s.close();
+    // s.close();
   }
 }
